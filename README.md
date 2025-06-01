@@ -1,5 +1,5 @@
 # 🐧 CSS Penguin
-![Penguin Preview](Capture6.PNG)
+![Penguin Preview](Capture6.png)
 This is a fun and creative front-end project where I built a cute animated **penguin character** entirely with **HTML and CSS** — no images, no JavaScript! The penguin includes mountains, a sun, blush, blinking eyes, and a cute "I 💜 CSS" shirt, making it a great example of what can be done with only code.
 
 ---
