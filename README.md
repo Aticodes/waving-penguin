@@ -21,27 +21,28 @@ This is a fun and creative front-end project where I built a cute animated **pen
 
 ---
 
-What I Learned
-Advanced CSS positioning and shapes
+## What I Learned
+- Advanced CSS positioning and shapes
+- Creating art with pure CSS
+- Layering with z-index
+- Styling facial features and accessories using div elements
+- Responsive and visually balanced layout
 
-Creating art with pure CSS
+---
 
-Layering with z-index
-
-Styling facial features and accessories using div elements
-
-Responsive and visually balanced layout
-
-
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 1.Clone the repository or download the files.
 2.Open index.html in any browser.
 3.Enjoy your CSS Penguin!
 
-css-penguin/
+---
+
+## css-penguin/
 ├── index.html
 ├── style.css
 └── README.md
 
-📄 License
+---
+
+## 📄 License
 This project is open-source and free to use or improve upon!
